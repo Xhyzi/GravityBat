@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f58f3a76645ff1c458b87fab297d97c1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iomanoid
+  fontNames:
+  - 'Iomanoid
+
+    -- Raymond Larabie'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2ee1a668ec6583a41a3063b5735626ce, type: 3}
+  - {fileID: 12800000, guid: 8849854a685f4dd41aeaffe496663ced, type: 3}
+  - {fileID: 12800000, guid: 67253b3e468bdcf45bb236ae0cc9c212, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

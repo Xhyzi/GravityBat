@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 67253b3e468bdcf45bb236ae0cc9c212
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iomanoid
+  fontNames:
+  - Iomanoid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2ee1a668ec6583a41a3063b5735626ce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

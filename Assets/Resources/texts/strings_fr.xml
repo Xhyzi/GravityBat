@@ -1,0 +1,82 @@
+<!-- French Texts -->
+<strings language="fr">
+  <string id="TXT_STATS">Statistiques</string>
+  <string id="TXT_TAPS">Touches</string>
+  <string id="TXT_SWAPS">Échanges</string>
+  <string id="TXT_MULTIPLIER">Multiplicateur</string>
+  <string id="TXT_DIAMONDS">Diamants</string>
+  <string id="TXT_COMPLETED_LEVELS">Niveaux Complètes</string>
+  <string id="TXT_SPECIAL_LEVELS">Niveaux Spécial</string>
+  <string id="TXT_ATTEMPTS">Tentatives</string>
+  <string id="TXT_TOTAL_TAPS">Touches Total</string>
+  <string id="TXT_TOTAL_SWAPS">Échanges Total</string>
+  <string id="TXT_TOTAL_MULTIPLIER">Meilleur Multiplicateur</string>
+  <string id="TXT_TOTAL_DIAMOND">Diamants Total</string>
+  <string id="TXT_TOTAL_ATTEMPTS">Tentatives Total</string>
+  <string id="TXT_RECORD">Record</string>
+  <string id="TXT_OPTIONS">Options</string>
+  <string id="TXT_LANGUAGE">Langue</string>
+  <string id="TXT_LANGUAGES">Langues</string>
+  <string id="TXT_LANGUAGE_NAME">Français</string>
+  <string id="TXT_MUSIC">Musique Vol.</string>
+  <string id="TXT_SFX">Sfx Vol.</string>
+  <string id="TXT_AUTO_RETRY">Auto Refaire</string>
+  <string id="TXT_ENABLE_MUSIC">Activer Musique</string>
+  <string id="TXT_ENABLE_SFX">Activer Sfx</string>
+  <string id="TXT_SHOW_UI">Niveau Boutons</string>
+  <string id="TXT_SWAP_UI">Échange Boutons</string>
+  <string id="TXT_CREDITS">Crédits</string>
+  <string id="TXT_LEVEL">Level</string>
+  <string id="TXT_WORLD">Monde</string>
+  <string id="TXT_INFINITE">Infini</string>
+  <string id="TXT_SPECIAL">Spécial</string>
+  <string id="TXT_BACK">Retour</string>
+  <string id="TXT_RANKING">Ranking</string>
+  <string id="TXT_PLAY">Jouer</string>
+  <string id="TXT_LEVEL_BLOCKED">Niveau Bloqué</string>
+  <string id="TXT_WORLD_BLOCKED">Monde Bloqué</string>
+  <string id="TXT_LEVEL_BLOCKED_INFO">Devez terminer le niveau précédent</string>
+  <string id="TXT_SPECIAL_LEVEL_BLOCKED_INFO">Devez obtenir tous les diamants secrets dans ce monde pour débloquer le Niveau Spécial</string>
+  <string id="TXT_WORLD_BLOCKED_INFO">Devez terminer tous les niveaux principaux du monde précédent pour déverrouiller celui-ci.</string>
+  <string id="TXT_GAME_PAUSED">Game Paused</string>
+  <string id="TXT_GAME_OVER">Game Over</string>
+  <string id="TXT_LEVEL_COMPLETED">Niveau Terminé!!</string>
+  <string id="TXT_NEW_RECORD">Nouveau Record!!</string>
+  <string id="TXT_MENU">Menu</string>
+  <string id="TXT_RESUME">Continuer</string>
+  <string id="TXT_REPLAY">Rejouer</string>
+  <string id="TXT_SCORE">Points</string>
+  <string id="TXT_CREDITS_GRAPHIC">Graphique</string>
+  <string id="TXT_CREDITS_MUSIC">Musique</string>
+  <string id="TXT_CREDITS_FONTS">Texte</string>
+  <string id="TXT_CREDITS_SPECIAL">Police de texte</string>
+  <string id="TXT_TUTORIAL_TAP">Tap to fly!!</string>
+  <string id="TXT_TUTORIAL_SWAP">Tap to swap gravity!!</string>
+  <string id="TXT_TUTORIAL_SCORE">
+    Picking up items will give you points
+
+    Some may even have additional effects!!
+  </string>
+  <string id="TXT_TUTORIAL_SWAP_CONSECUENCES">Swaping gravity will consume some of your energy</string>
+  <string id="TXT_TUTORIAL_MULTIPLIER_CHAIN">Chain multiple swaps to obtain more points!!</string>
+  <string id="TXT_SPEED">Speed</string>
+  <string id="TXT_INFINITE_COMPLETED">Attempt Data</string>
+  <string id="TXT_TUTORIAL_SWAP_CONSECUENCES_2">A points multiplier will be granted in exchange!</string>
+  <string id="TXT_SHARE_APP_MSG">Hey, you should try this game out!</string>
+  <string id="TXT_SHARE_APP_INFO">Share Gravity Bat with friends</string>
+  <string id="TXT_SHARE_SCORE_MSG">Hey, can you beat my score?</string>
+  <string id="TXT_SHARE_SCORE_INFO">Share your score with friends</string>
+  <string id="TXT_TUTORIAL">Tutorials</string>
+  <string id="TXT_ENERGY">Energy</string>
+  <string id="TXT_WORKING_ON_WORLD_2">
+    Thank you for playing Gravity Bat Beta!!
+    We are currently working on Worlds 2 and 3!!
+
+    Please, consider leaving a comment and a rating on the Play Store.
+  </string>
+  <string id="TXT_WELCOME">
+    Welcome to Gravity Bat Beta!!
+
+    Please, enjoy the game!
+  </string>
+</strings>
